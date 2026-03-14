@@ -4,7 +4,7 @@ Tracking my progress while solving array problems from the Striver A2Z DSA Sheet
 
 ## Checklist
 
-- [ ] Largest Element in an Array
+- [x] Largest Element in an Array
 - [ ] Second Largest Element in an Array
 - [ ] Check if Array is Sorted
 - [ ] Remove Duplicates from Sorted Array
