@@ -10,7 +10,7 @@ Tracking my progress while solving array problems from the Striver A2Z DSA Sheet
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Left Rotate Array by One Place
 - [ ] Left Rotate Array by D Places
-- [ ] Move Zeros to End
+- [x] Move Zeros to End
 - [ ] Linear Search in Array
 - [ ] Find Missing Number
 - [ ] Maximum Consecutive Ones
