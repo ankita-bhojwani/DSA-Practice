@@ -18,7 +18,7 @@ Tracking my progress while solving array problems from the Striver A2Z DSA Sheet
 - [ ] Union of Two Sorted Arrays
 - [ ] Two Sum
 - [ ] Longest Subarray with Sum K
-- [ ] Sort Array of 0s 1s 2s
+- [x] Sort Array of 0s 1s 2s
 - [ ] Majority Element (n/2 times)
 - [ ] Kadane’s Algorithm (Maximum Subarray Sum)
 - [ ] Rearrange Array Elements by Sign
