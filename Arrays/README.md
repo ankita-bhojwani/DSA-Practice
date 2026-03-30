@@ -23,7 +23,7 @@ Tracking my progress while solving array problems from the Striver A2Z DSA Sheet
 - [ ] Kadane’s Algorithm (Maximum Subarray Sum)
 - [ ] Rearrange Array Elements by Sign
 - [ ] Next Permutation
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Leaders in an Array
 - [ ] Longest Consecutive Sequence
 - [ ] Set Matrix Zeros
