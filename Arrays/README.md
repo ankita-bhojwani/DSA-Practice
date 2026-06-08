@@ -31,7 +31,7 @@ Tracking my progress while solving array problems from the Striver A2Z DSA Sheet
 - [ ] Spiral Traversal of Matrix
 - [x] Count Subarrays with Given Sum
 - [ ] Subarray with XOR K
-- [] Majority Element (n/3 times)
+- [x] Majority Element (n/3 times)
 - [ ] 3 Sum
 - [ ] 4 Sum
 - [x] Longest Subarray with 0 Sum
